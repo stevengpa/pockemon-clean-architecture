@@ -21,7 +21,6 @@
   ],
   "rules": {
     "prettier/prettier": "error",
-    "no-unused-vars": ["error", {"args": "all"}],
     "newline-before-return": "error",
     // https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin
     "@typescript-eslint/explicit-function-return-type": "off",
